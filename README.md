@@ -1,30 +1,15 @@
 # Density Labs Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pokemón Project
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Screenshots: 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![image](https://github.com/Diego-Fu/density-labs-pokemon-project/assets/11130657/d1a95645-b5c1-4994-bb36-d6fe63456c74)
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+![image](https://github.com/Diego-Fu/density-labs-pokemon-project/assets/11130657/981583e8-8473-4207-9538-0dcf28d35366)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+![image](https://github.com/Diego-Fu/density-labs-pokemon-project/assets/11130657/d4db9bff-3d17-4b9e-ba9d-36122f1b1574)
